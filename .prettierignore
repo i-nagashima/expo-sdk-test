@@ -1,0 +1,7 @@
+**/.expo-shared/*
+**/node_modules/*
+**/.eslintrc.js
+**/.prettierrc
+**/app.json
+**/babel.config.js
+**/tsconfig.json
