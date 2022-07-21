@@ -1,11 +1,11 @@
 import { Provider as PaperProvider } from 'react-native-paper';
 
-import Main from './src/ReactNativePaperSample';
+import AppNavigator from './navigators/AppNavigator';
 
 export default function App() {
   return (
     <PaperProvider>
-      <Main />
+      <AppNavigator />
     </PaperProvider>
   );
 }
